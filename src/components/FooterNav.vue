@@ -1,6 +1,10 @@
 <template>
   <footer>
-    <a class="social-link" href="">
+    <a
+      class="social-link"
+      href="https://www.facebook.com/profile.php?id=100063897079833"
+      target="_blank"
+    >
       <i class="bi bi-facebook"></i>
     </a>
     <p>
